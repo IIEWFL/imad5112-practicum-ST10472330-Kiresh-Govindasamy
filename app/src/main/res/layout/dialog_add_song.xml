@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+
+    <!-- ST10472330 Kiresh Govindasamy -->
+
+
+    <!-- Edit Texts for the users input -->
+    <EditText
+        android:id="@+id/songTitleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the Song Title"
+        android:inputType="text"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/artistEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the Artist Name"
+        android:inputType="text"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/ratingEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint=" Give a Rating (1 to 5)"
+        android:inputType="number"
+        android:minHeight="50dp" />
+
+    <EditText
+        android:id="@+id/commentEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Comments"
+        android:inputType="text"
+        android:minHeight="50dp" />
+
+</LinearLayout>

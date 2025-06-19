@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/detailsLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_marginTop="35dp"
+    android:layout_marginBottom="35dp">
+
+
+    <!-- ST10472330 Kiresh Govindasamy -->
+
+    <!-- TextView to show all song details -->
+
+    <TextView
+        android:id="@+id/txtSongList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your playlist will appear here."
+        android:textSize="16sp"
+        android:padding="8dp" />
+
+    <!-- TextView to display average rating -->
+    <TextView
+        android:id="@+id/txtAverage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="The Avarage Rating"
+        android:textSize="16sp"
+        android:padding="8dp" />
+
+    <!-- Buttons for actions -->
+    <Button
+        android:id="@+id/btnShowSongs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show All Songs" />
+
+    <Button
+        android:id="@+id/btnAverage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Average Rating" />
+
+    <Button
+        android:id="@+id/btnReturn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return to Main Screen" />
+
+
+</LinearLayout>
