@@ -25,7 +25,7 @@ Heres the KT
 
 Here is the ScreenShots of it Running in the Emulator
 ![Main Screen Music Emu](https://github.com/user-attachments/assets/a2e279be-d9b7-43be-ad17-48544db36a53)
-![Main Screen Add Song Running ](https://github.com/user-attachments/assets/bb76f56b-3593-4a34-8512-3f3737a8034a)
+
 ![Detailed screen](https://github.com/user-attachments/assets/730d6272-4fe9-4d29-b397-1de95ca0f3e0)
 ![Inputs Emu](https://github.com/user-attachments/assets/3bf45110-5761-4429-872c-59f7e27795b5)
 ![Detailed screen Emu(1)](https://github.com/user-attachments/assets/57f8fe6d-3ffb-4d82-b16a-f7371e14b932)
